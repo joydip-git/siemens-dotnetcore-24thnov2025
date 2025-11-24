@@ -13,3 +13,9 @@ E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debu
 E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.pdb
 E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.genruntimeconfig.cache
 E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\ref\MappingApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\bin\Debug\net9.0\DataEntities.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\bin\Debug\net9.0\ProductLibrary.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\bin\Debug\net9.0\DataEntities.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\bin\Debug\net9.0\ProductLibrary.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.csproj.AssemblyReference.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.csproj.Up2Date

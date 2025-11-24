@@ -7,14 +7,44 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "MappingApp/1.0.0": {
+        "dependencies": {
+          "DataEntities": "1.0.0",
+          "ProductLibrary": "1.0.0"
+        },
         "runtime": {
           "MappingApp.dll": {}
+        }
+      },
+      "DataEntities/1.0.0": {
+        "runtime": {
+          "DataEntities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ProductLibrary/1.0.0": {
+        "runtime": {
+          "ProductLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "MappingApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
