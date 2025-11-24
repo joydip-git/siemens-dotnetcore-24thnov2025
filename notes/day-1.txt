@@ -156,6 +156,23 @@ delegate TResult Func<in T1,.., in T16, out TResult>(T1 value1,..., T16 value16)
 
 delegate void EventHandler(object obj, EventArgs e);
 
+Reflection:
+------------------
+a. load any assembly dynamically into runtime
+b. discover types at runtime from the loaded assembly
+c. creating instance dynamically based on the type metadata
+d. invoking methods/properties dynamically based on the method/property metadata
+
+TOP => Type Object Pointer
+SBI => Sync Block Index
+
+
+Product
+	=> id, name, price, description
+
+ProductEntity 
+	=> id, name, price, description,...
+
 
 
 

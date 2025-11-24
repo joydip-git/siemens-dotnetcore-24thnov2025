@@ -1,0 +1,15 @@
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\bin\Debug\net9.0\ReflectionApp.exe
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\bin\Debug\net9.0\ReflectionApp.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\bin\Debug\net9.0\ReflectionApp.runtimeconfig.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\bin\Debug\net9.0\ReflectionApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\bin\Debug\net9.0\ReflectionApp.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\ReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\ReflectionApp.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\ReflectionApp.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\ReflectionApp.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\ReflectionApp.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\ReflectionApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\refint\ReflectionApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\ReflectionApp.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\ReflectionApp.genruntimeconfig.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ReflectionApp\ReflectionApp\obj\Debug\net9.0\ref\ReflectionApp.dll

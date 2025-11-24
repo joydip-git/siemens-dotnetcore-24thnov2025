@@ -1,0 +1,15 @@
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\bin\Debug\net9.0\MappingApp.exe
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\bin\Debug\net9.0\MappingApp.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\bin\Debug\net9.0\MappingApp.runtimeconfig.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\bin\Debug\net9.0\MappingApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\bin\Debug\net9.0\MappingApp.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\refint\MappingApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\MappingApp.genruntimeconfig.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\MappingApp\obj\Debug\net9.0\ref\MappingApp.dll

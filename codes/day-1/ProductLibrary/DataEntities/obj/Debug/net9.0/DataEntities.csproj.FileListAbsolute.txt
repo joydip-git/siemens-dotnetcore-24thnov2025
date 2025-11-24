@@ -1,0 +1,12 @@
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\bin\Debug\net9.0\DataEntities.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\bin\Debug\net9.0\DataEntities.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\bin\Debug\net9.0\DataEntities.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\obj\Debug\net9.0\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\obj\Debug\net9.0\DataEntities.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\obj\Debug\net9.0\DataEntities.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\obj\Debug\net9.0\DataEntities.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\obj\Debug\net9.0\DataEntities.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\obj\Debug\net9.0\DataEntities.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\obj\Debug\net9.0\refint\DataEntities.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\obj\Debug\net9.0\DataEntities.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-1\ProductLibrary\DataEntities\obj\Debug\net9.0\ref\DataEntities.dll
