@@ -8,14 +8,17 @@ https://github.com/joydip-git/siemens-dotnetcore-24thnov2025
 Common Language Run-time (CLR) => mscoree.dll
 MS common object runtime execution engine
 
-1.0 => 1.0
-1.1 => 1.0
-2.0 => 2.0
-3.0 => 2.0
-3.5 => 2.0
-4.0 => 4.0
-...
-4.8 => 4.0
+.NET Framework:
+1.0 => 1.0 => 1.0
+1.1 => 1.0 => 1.1
+2.0 => 2.0 => 2.0
+3.0 => 2.0 => 3.0
+3.5 => 2.0 => 3.5
+4.0 => 4.0 => 4.0
+4.5 => 4.0 => 5.0
+4.6 => 4.0 => 6.0
+4.7 => 4.0 => 7.0
+4.8 => 4.0 => 8.0
 
 ILDASM => can dis assemble ONLY the assemblies 
 
@@ -50,6 +53,17 @@ compiler for C# and VB => Roslyn
 		=> application lifetime		
 		=> graceful shutdown
 		=> all the services 
+
+
+.NET/.NET Core and C# version history
+5.0 => 9.0
+6.0 => 10.0
+7.0 => 11.0
+8.0 => 12.0
+9.0 => 13.0
+10.0 => 14.0
+
+
 
 classes:
 	Microsoft.Extensions.*
@@ -98,6 +112,53 @@ IPaymentService ps = builder
 	.AddPayOnDelivery()
 	.AddPayOnLine();
 	.BuildPaymentService();
+
+
+Callback mechanism:
+-------------------------
+func B(){}
+func A(B)
+	B()
+
+
+public delegate bool LogicDel(int number);
+
+public class LogicDel: MulticastDelegate (:Delegate:Object)
+{
+	MethodInfo _method;
+	Object? _target;
+	public LogicDel(MethodInfo method, Object? target)
+	{
+		_method = method;
+		_target = target;
+	}
+	public bool Invoke(int number)
+	{
+		//code to invoke the method
+		if(_target !=null)
+			_method.Invoke(_target, new Object[]{number});
+		else
+			_method.Invoke(null,new Object[]{number}); 
+	}
+}
+
+delegate bool Predicate(object value);
+delegate bool Predicate<in T> (T value);
+
+delegate void Action(object value);
+delegate void Action<in T>(T value);
+
+delegate TResult Func<out TResult>();
+delegate TResult Func<in T, out TResult>(T value);
+delegate TResult Func<in T1, in T2, out TResult>(T1 value1, T2 value2);
+......
+delegate TResult Func<in T1,.., in T16, out TResult>(T1 value1,..., T16 value16);
+
+delegate void EventHandler(object obj, EventArgs e);
+
+
+
+
 
 
 
