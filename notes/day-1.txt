@@ -1,0 +1,113 @@
+git repo:
+https://github.com/joydip-git/siemens-dotnetcore-24thnov2025
+
+.NET/.NET Core
+
+.NET Framework => 4.8 (2019) => legacy
+
+Common Language Run-time (CLR) => mscoree.dll
+MS common object runtime execution engine
+
+1.0 => 1.0
+1.1 => 1.0
+2.0 => 2.0
+3.0 => 2.0
+3.5 => 2.0
+4.0 => 4.0
+...
+4.8 => 4.0
+
+ILDASM => can dis assemble ONLY the assemblies 
+
+
+.NET Core => 1.0 (2016) -> 3.1
+
+.NET => 5, 7, 9 (STS)
+.NET => 6,8,10 (LTS)
+
+Console => Core runtime (Core CLR)
+Desktop => Desktop runtime (Desktop CLR)
+web => ASP.NET Core runtime 
+
+.NET SDK includes all the 3 runtimes
+
+compiler for C# and VB => Roslyn
+
+.NET executable applications, when compiled will produce an assembly with .dll extension and also a host of the assembly with .exe extension.
+.NET library applications, when compiled will produce just an assembly with .dll extension.
+
+.NET advantages
+	=> cross-platform
+	=> modular
+	=> smaller package size
+	=> open source
+
+.NET features
+	=> built in container for DI
+	=> built in configuration provider
+	=> built in logging facility
+	=> built in hosting service
+		=> application lifetime		
+		=> graceful shutdown
+		=> all the services 
+
+classes:
+	Microsoft.Extensions.*
+interfaces
+	Microsoft.Extensions.*.Abstractions
+
+class PaymentService:IPaymentService
+{
+	PayOnDelivery(){}	
+}
+
+class OnlinePaymentService:BasicPaymentService
+{
+	PayViaCreditCard(){}
+}
+class CreditPaymentService:BasicPaymentService
+{
+	PayViaCreditCard(){}
+}
+class OnlinePaymentService:CreditPaymentService
+{
+	PayViaOnlineBanking{}
+}
+interface IBuilder{}
+
+class Builder: IBuilder
+{
+	private readonly PaymentService ps = new PaymentService();
+	public IBuilder AddPayOnDelivery()
+	{
+		//code...
+		return this;
+	}
+	public IBuilder AddPayOnLine(){ return this;}
+	public IBuilder AddPayViaCredit(){ return this;}
+	public IBuilder AddPayViaUPI(){ return this; }
+
+	public PaymentService BuildPaymentService()
+	{
+		return ps;
+	}
+}
+
+IBuilder builder = new Builder();
+IPaymentService ps = builder
+	.AddPayOnDelivery()
+	.AddPayOnLine();
+	.BuildPaymentService();
+
+
+
+
+	
+
+
+
+
+
+
+
+
