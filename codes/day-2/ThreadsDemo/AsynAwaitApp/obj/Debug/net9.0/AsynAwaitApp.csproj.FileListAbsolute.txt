@@ -1,0 +1,16 @@
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\bin\Debug\net9.0\AsynAwaitApp.exe
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\bin\Debug\net9.0\AsynAwaitApp.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\bin\Debug\net9.0\AsynAwaitApp.runtimeconfig.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\bin\Debug\net9.0\AsynAwaitApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\bin\Debug\net9.0\AsynAwaitApp.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\AsynAwaitApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\AsynAwaitApp.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\AsynAwaitApp.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\AsynAwaitApp.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\AsynAwaitApp.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\AsynAwaitApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\refint\AsynAwaitApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\AsynAwaitApp.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\AsynAwaitApp.genruntimeconfig.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\obj\Debug\net9.0\ref\AsynAwaitApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\AsynAwaitApp\bin\Debug\net9.0\todos.json

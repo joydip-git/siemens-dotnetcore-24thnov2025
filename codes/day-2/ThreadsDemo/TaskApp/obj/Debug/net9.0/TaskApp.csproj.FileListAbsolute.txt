@@ -1,0 +1,15 @@
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\bin\Debug\net9.0\TaskApp.exe
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\bin\Debug\net9.0\TaskApp.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\bin\Debug\net9.0\TaskApp.runtimeconfig.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\bin\Debug\net9.0\TaskApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\bin\Debug\net9.0\TaskApp.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\TaskApp.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\TaskApp.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\TaskApp.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\TaskApp.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\TaskApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\refint\TaskApp.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\TaskApp.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\TaskApp.genruntimeconfig.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\TaskApp\obj\Debug\net9.0\ref\TaskApp.dll

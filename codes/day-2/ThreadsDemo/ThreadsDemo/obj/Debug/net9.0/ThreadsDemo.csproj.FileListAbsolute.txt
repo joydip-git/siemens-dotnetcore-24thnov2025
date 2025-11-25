@@ -1,0 +1,15 @@
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\bin\Debug\net9.0\ThreadsDemo.exe
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\bin\Debug\net9.0\ThreadsDemo.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\bin\Debug\net9.0\ThreadsDemo.runtimeconfig.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\bin\Debug\net9.0\ThreadsDemo.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\bin\Debug\net9.0\ThreadsDemo.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\ThreadsDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\ThreadsDemo.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\ThreadsDemo.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\ThreadsDemo.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\ThreadsDemo.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\ThreadsDemo.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\refint\ThreadsDemo.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\ThreadsDemo.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\ThreadsDemo.genruntimeconfig.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\ThreadsDemo\ThreadsDemo\obj\Debug\net9.0\ref\ThreadsDemo.dll
