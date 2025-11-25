@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB8247-3AA1-419E-8DD5-A4468DB4B868}|Siemens.DotNet.Pms.Tests\\Siemens.DotNet.Pms.Tests.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\siemens.dotnet.pms\\siemens.dotnet.pms.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB8247-3AA1-419E-8DD5-A4468DB4B868}|Siemens.DotNet.Pms.Tests\\Siemens.DotNet.Pms.Tests.csproj|solutionrelative:siemens.dotnet.pms.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09795C7F-87D0-4CF4-A500-F5E8E07D2B8F}|Siemens.DotNet.Pms.UserInterface\\Siemens.DotNet.Pms.UserInterface.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\siemens.dotnet.pms\\siemens.dotnet.pms.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09795C7F-87D0-4CF4-A500-F5E8E07D2B8F}|Siemens.DotNet.Pms.UserInterface\\Siemens.DotNet.Pms.UserInterface.csproj|solutionrelative:siemens.dotnet.pms.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09795C7F-87D0-4CF4-A500-F5E8E07D2B8F}|Siemens.DotNet.Pms.UserInterface\\Siemens.DotNet.Pms.UserInterface.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\siemens.dotnet.pms\\siemens.dotnet.pms.userinterface\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09795C7F-87D0-4CF4-A500-F5E8E07D2B8F}|Siemens.DotNet.Pms.UserInterface\\Siemens.DotNet.Pms.UserInterface.csproj|solutionrelative:siemens.dotnet.pms.userinterface\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69265D8E-61EB-44FD-A227-AD4BDA4C85E1}|Siemens.DotNet.Pms.Manager\\Siemens.DotNet.Pms.Manager.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\siemens.dotnet.pms\\siemens.dotnet.pms.manager\\asyncproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69265D8E-61EB-44FD-A227-AD4BDA4C85E1}|Siemens.DotNet.Pms.Manager\\Siemens.DotNet.Pms.Manager.csproj|solutionrelative:siemens.dotnet.pms.manager\\asyncproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69265D8E-61EB-44FD-A227-AD4BDA4C85E1}|Siemens.DotNet.Pms.Manager\\Siemens.DotNet.Pms.Manager.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\siemens.dotnet.pms\\siemens.dotnet.pms.manager\\iasyncmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69265D8E-61EB-44FD-A227-AD4BDA4C85E1}|Siemens.DotNet.Pms.Manager\\Siemens.DotNet.Pms.Manager.csproj|solutionrelative:siemens.dotnet.pms.manager\\iasyncmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A0720-875D-4DB1-83C9-40B0868BA0CA}|Siemens.DotNet.Pms.Repository\\Siemens.DotNet.Pms.Repository.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\siemens.dotnet.pms\\siemens.dotnet.pms.repository\\asyncfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A0720-875D-4DB1-83C9-40B0868BA0CA}|Siemens.DotNet.Pms.Repository\\Siemens.DotNet.Pms.Repository.csproj|solutionrelative:siemens.dotnet.pms.repository\\asyncfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A0720-875D-4DB1-83C9-40B0868BA0CA}|Siemens.DotNet.Pms.Repository\\Siemens.DotNet.Pms.Repository.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\siemens.dotnet.pms\\siemens.dotnet.pms.repository\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A0720-875D-4DB1-83C9-40B0868BA0CA}|Siemens.DotNet.Pms.Repository\\Siemens.DotNet.Pms.Repository.csproj|solutionrelative:siemens.dotnet.pms.repository\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5144355-81C3-46F4-9F88-11406EFC4EEA}|Siemens.DotNet.Pms.Entities\\Siemens.DotNet.Pms.Entities.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\siemens.dotnet.pms\\siemens.dotnet.pms.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5144355-81C3-46F4-9F88-11406EFC4EEA}|Siemens.DotNet.Pms.Entities\\Siemens.DotNet.Pms.Entities.csproj|solutionrelative:siemens.dotnet.pms.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.Pms.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Siemens.DotNet.Pms.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:35:49.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "products.json",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.UserInterface\\products.json",
+              "RelativeDocumentMoniker": "Siemens.DotNet.Pms.UserInterface\\products.json",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.UserInterface\\products.json",
+              "RelativeToolTip": "Siemens.DotNet.Pms.UserInterface\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T09:29:12.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.Pms.UserInterface\\Program.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.UserInterface\\Program.cs",
+              "RelativeToolTip": "Siemens.DotNet.Pms.UserInterface\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:26:56.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsyncProductManager.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Manager\\AsyncProductManager.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.Pms.Manager\\AsyncProductManager.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Manager\\AsyncProductManager.cs",
+              "RelativeToolTip": "Siemens.DotNet.Pms.Manager\\AsyncProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:19:40.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAsyncManager.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Manager\\IAsyncManager.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.Pms.Manager\\IAsyncManager.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Manager\\IAsyncManager.cs",
+              "RelativeToolTip": "Siemens.DotNet.Pms.Manager\\IAsyncManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:17:06.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsyncFileRepository.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Repository\\AsyncFileRepository.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.Pms.Repository\\AsyncFileRepository.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Repository\\AsyncFileRepository.cs",
+              "RelativeToolTip": "Siemens.DotNet.Pms.Repository\\AsyncFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:08:17.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Repository\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.Pms.Repository\\IAsyncRepository.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Repository\\IAsyncRepository.cs",
+              "RelativeToolTip": "Siemens.DotNet.Pms.Repository\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:06:53.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.Pms.Entities\\Product.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Entities\\Product.cs",
+              "RelativeToolTip": "Siemens.DotNet.Pms.Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIA0wBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:54:44.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNet.Pms.Entities", "Siemens.DotNet.Pms.Entities\Siemens.DotNet.Pms.Entities.csproj", "{C5144355-81C3-46F4-9F88-11406EFC4EEA}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNet.Pms.Manager", "Siemens.DotNet.Pms.Manager\Siemens.DotNet.Pms.Manager.csproj", "{69265D8E-61EB-44FD-A227-AD4BDA4C85E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNet.Pms.UserInterface", "Siemens.DotNet.Pms.UserInterface\Siemens.DotNet.Pms.UserInterface.csproj", "{09795C7F-87D0-4CF4-A500-F5E8E07D2B8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNet.Pms.Tests", "Siemens.DotNet.Pms.Tests\Siemens.DotNet.Pms.Tests.csproj", "{E8AB8247-3AA1-419E-8DD5-A4468DB4B868}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{09795C7F-87D0-4CF4-A500-F5E8E07D2B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09795C7F-87D0-4CF4-A500-F5E8E07D2B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09795C7F-87D0-4CF4-A500-F5E8E07D2B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8AB8247-3AA1-419E-8DD5-A4468DB4B868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AB8247-3AA1-419E-8DD5-A4468DB4B868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AB8247-3AA1-419E-8DD5-A4468DB4B868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AB8247-3AA1-419E-8DD5-A4468DB4B868}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

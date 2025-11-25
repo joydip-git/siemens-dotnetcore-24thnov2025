@@ -1,0 +1,43 @@
+The application should be able to perform CRUD operation against set of records present in two files: products.json and categories.josn
+
+products.json file: stores an array or product instances in the form of JSON data
+categories.josn file: stores an array or category instances in the form of JSON data
+
+you need to create this application with 3 tier architecture with following tiers:
+	a. Repository: contains login to read data from and write data into the files
+	b. Manager/Service: contains logic to add new record, delete/update existing record, get all and get a particular records by interacting with the files through Repository
+	c. User Interface: contains logic for getting input from user and pass it to the Manager layer methods as well as get output from manager layer methods and then display the same.
+
+Entities: (create in a separate library)
+----------------------------------------------------
+Product attributes: id (numerical), name (string), price (numerical) and description (string)
+Category attributes: id (numerical), name (string)
+
+Relationship:
+1 to Many: each category can have multiple products under it
+1 to 1: each product belongs to a category
+
+Repository: (create in a separate library)
+------------------------------------------------
+asynchronous functionalities => WriteDataAsync(List<C/P>,path) and ReadDataAsync(path)
+
+Manager:(create in a separate library)
+----------------------------------------------
+specific managers:
+	ProductManager and CategoryManager
+	both should have common methods for crud operations and all of them should be asynchronous
+	=> AddAsync: helps to add a new product/category instance in the file and returns the same object when the operation is successful else throws an exception in case of any issue
+	=>  DeleteAsync: helps to delete an existing record from the file, for a given id of the record and returns the deleted object when the operation is successful else throws an exception in case of any issue
+        => UpdateAsync: helps to update an existing record from the file, for a given id of the record and returns the updated object when the operation is successful else throws an exception in case of any issue, 
+	=> GetAsync: helps to fetch an existing record from the file, for a given id of the record and returns the found object when the operation is successful else throws an exception in case of any issue
+	=> GetAllAsync: returns all records from the file and before returning sorts all the records based on the choice passed to the method.
+	choices: 1 - sort by id, 2- sort by name, 3- sort by price
+
+UI (create a separate console application):
+-----------------------------------------------
+	=> displays a menu to the user for CRUD operations
+	=> gets the choice of operation from the user
+	=> invokes manager class method accordingly
+	
+	
+

@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Siemens.DotNet.Pms.UserInterface/1.0.0": {
+        "dependencies": {
+          "Siemens.DotNet.Pms.Manager": "1.0.0"
+        },
+        "runtime": {
+          "Siemens.DotNet.Pms.UserInterface.dll": {}
+        }
+      },
+      "Siemens.DotNet.Pms.Entities/1.0.0": {
+        "runtime": {
+          "Siemens.DotNet.Pms.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Siemens.DotNet.Pms.Manager/1.0.0": {
+        "dependencies": {
+          "Siemens.DotNet.Pms.Entities": "1.0.0",
+          "Siemens.DotNet.Pms.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Siemens.DotNet.Pms.Manager.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Siemens.DotNet.Pms.Repository/1.0.0": {
+        "runtime": {
+          "Siemens.DotNet.Pms.Repository.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siemens.DotNet.Pms.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siemens.DotNet.Pms.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siemens.DotNet.Pms.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siemens.DotNet.Pms.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Siemens.DotNet.Pms.Manager\Siemens.DotNet.Pms.Manager.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="products.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

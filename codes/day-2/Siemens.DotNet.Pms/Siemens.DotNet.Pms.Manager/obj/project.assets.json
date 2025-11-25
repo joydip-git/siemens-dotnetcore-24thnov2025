@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Siemens.DotNet.Pms.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Siemens.DotNet.Pms.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Siemens.DotNet.Pms.Entities.dll": {}
+        }
+      },
+      "Siemens.DotNet.Pms.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Siemens.DotNet.Pms.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Siemens.DotNet.Pms.Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Siemens.DotNet.Pms.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Siemens.DotNet.Pms.Entities/Siemens.DotNet.Pms.Entities.csproj",
+      "msbuildProject": "../Siemens.DotNet.Pms.Entities/Siemens.DotNet.Pms.Entities.csproj"
+    },
+    "Siemens.DotNet.Pms.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Siemens.DotNet.Pms.Repository/Siemens.DotNet.Pms.Repository.csproj",
+      "msbuildProject": "../Siemens.DotNet.Pms.Repository/Siemens.DotNet.Pms.Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Siemens.DotNet.Pms.Entities >= 1.0.0",
+      "Siemens.DotNet.Pms.Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\joydi\\.nuget\\packages\\": {},
@@ -38,7 +73,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Entities\\Siemens.DotNet.Pms.Entities.csproj": {
+              "projectPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Entities\\Siemens.DotNet.Pms.Entities.csproj"
+            },
+            "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Repository\\Siemens.DotNet.Pms.Repository.csproj": {
+              "projectPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Repository\\Siemens.DotNet.Pms.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

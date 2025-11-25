@@ -1,0 +1,12 @@
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\bin\Debug\net9.0\Siemens.DotNet.Pms.Repository.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\bin\Debug\net9.0\Siemens.DotNet.Pms.Repository.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\bin\Debug\net9.0\Siemens.DotNet.Pms.Repository.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\obj\Debug\net9.0\Siemens.DotNet.Pms.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\obj\Debug\net9.0\Siemens.DotNet.Pms.Repository.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\obj\Debug\net9.0\Siemens.DotNet.Pms.Repository.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\obj\Debug\net9.0\Siemens.DotNet.Pms.Repository.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\obj\Debug\net9.0\Siemens.DotNet.Pms.Repository.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\obj\Debug\net9.0\Siemens.DotNet.Pms.Repository.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\obj\Debug\net9.0\refint\Siemens.DotNet.Pms.Repository.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\obj\Debug\net9.0\Siemens.DotNet.Pms.Repository.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-2\Siemens.DotNet.Pms\Siemens.DotNet.Pms.Repository\obj\Debug\net9.0\ref\Siemens.DotNet.Pms.Repository.dll

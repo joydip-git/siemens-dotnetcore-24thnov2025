@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Siemens.DotNet.Pms.Entities\Siemens.DotNet.Pms.Entities.csproj" />
+    <ProjectReference Include="..\Siemens.DotNet.Pms.Repository\Siemens.DotNet.Pms.Repository.csproj" />
+  </ItemGroup>
+
 </Project>
