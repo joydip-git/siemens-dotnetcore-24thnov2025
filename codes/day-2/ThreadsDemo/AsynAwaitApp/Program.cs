@@ -5,85 +5,38 @@ namespace AsynAwaitApp
 {
     internal class Program
     {
+        static int x = 0;
         static async Task Main(string[] args)
         {
             Console.WriteLine("Main method " + Environment.CurrentManagedThreadId);
-            try
-            {
-                long sum = await Calculate();
-                Console.WriteLine(sum);
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-            }
-
-            //Task<List<Todo>?> todoTask = FetchTodos();
-            //if (todoTask.IsFaulted)
-            //    Console.WriteLine(todoTask.Exception);
-            //todoTask.Result?.ForEach(td => Console.WriteLine(td.Title));
             //try
             //{
-            //    Task<List<Todo>?> todoTask = FetchTodosAsync();
-            //    List<Todo>? todos = await todoTask;
-            //    todos?.ForEach(td => Console.WriteLine(td.Title));
-            //    if (todos != null && todos.Count > 0)
-            //        await WriteAsync(todos);
-            //}
-            //catch (Exception e)
-            //{
-            //    Console.WriteLine(e); ;
-            //}
-            //Console.WriteLine("\n\n\n");
-            //try
-            //{
-            //    List<Todo>? todos = await ReadTodosAsync();
-            //    todos?.ForEach(td => Console.WriteLine(td.Title));
+            //    long sum = await Calculate();
+            //    Console.WriteLine(sum);
             //}
             //catch (Exception e)
             //{
             //    Console.WriteLine(e);
             //}
-            //FetchTodosAsync()
-            //    .ContinueWith(t =>
-            //    {
-            //        var list = t.Result;
-            //        if(list != null && list.Count > 0)
-            //        {
-            //            WriteAsync(list).ContinueWith(
-            //                t =>
-            //                {
-            //                    if (t.IsCompletedSuccessfully)
-            //                    {
-            //                        ReadTodosAsync()
-            //                        .ContinueWith(t=>
-            //                        {
-            //                            if (t.IsCompletedSuccessfully)
-            //                            {
-            //                                t.Result?.ForEach(td => Console.WriteLine(td.Title));
-            //                            }
-            //                        }
-            //                        );
-            //                    }
-            //                });
-            //        }
-            //    });
 
-            try
+            GetDataAsync();
+            Console.WriteLine("continue with main task...");
+            GetDataAsync();
+           
+            await Task.Delay(1000);
+        }
+        static async Task GetDataAsync()
+        {
+            x++;
+            Console.WriteLine("Task: " + x);
+            var list = await FetchTodosAsync();
+            if (list != null && list.Count > 0)
             {
-                var list = await FetchTodosAsync();
-                if (list != null && list.Count > 0)
-                {
-                    await WriteAsync(list);
-                    var todos = await ReadTodosAsync();
-                    todos?.ForEach(x => Console.WriteLine(x.Title));
-                }
+                await WriteAsync(list);
+                var todos = await ReadTodosAsync();
+                todos?.ForEach(x => Console.WriteLine(x.Title));
             }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-            }
-            
+           
         }
         static async Task<long> Calculate()
         {
@@ -92,10 +45,6 @@ namespace AsynAwaitApp
             for (int i = 0; i < 1000000; i++)
             {
                 sum += i;
-                //if (sum > 5000)
-                //{
-                //    throw new Exception("value exceded");
-                //}
             }
             return sum;
         }

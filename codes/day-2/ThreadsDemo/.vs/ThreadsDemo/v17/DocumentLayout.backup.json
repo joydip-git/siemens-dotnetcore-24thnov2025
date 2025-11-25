@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33554811-99BC-42F3-B75C-C0CE5D7C891E}|TaskApp\\TaskApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\threadsdemo\\taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33554811-99BC-42F3-B75C-C0CE5D7C891E}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9A43DF9-A3DE-4393-9798-14F7DD1B69B5}|AsynAwaitApp\\AsynAwaitApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\threadsdemo\\asynawaitapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9A43DF9-A3DE-4393-9798-14F7DD1B69B5}|AsynAwaitApp\\AsynAwaitApp.csproj|solutionrelative:asynawaitapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9A43DF9-A3DE-4393-9798-14F7DD1B69B5}|AsynAwaitApp\\AsynAwaitApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\threadsdemo\\asynawaitapp\\todos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F9A43DF9-A3DE-4393-9798-14F7DD1B69B5}|AsynAwaitApp\\AsynAwaitApp.csproj|solutionrelative:asynawaitapp\\todos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A43DF9-A3DE-4393-9798-14F7DD1B69B5}|AsynAwaitApp\\AsynAwaitApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\threadsdemo\\asynawaitapp\\asynawaitapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F9A43DF9-A3DE-4393-9798-14F7DD1B69B5}|AsynAwaitApp\\AsynAwaitApp.csproj|solutionrelative:asynawaitapp\\asynawaitapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A43DF9-A3DE-4393-9798-14F7DD1B69B5}|AsynAwaitApp\\AsynAwaitApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\threadsdemo\\asynawaitapp\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A43DF9-A3DE-4393-9798-14F7DD1B69B5}|AsynAwaitApp\\AsynAwaitApp.csproj|solutionrelative:asynawaitapp\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33554811-99BC-42F3-B75C-C0CE5D7C891E}|TaskApp\\TaskApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\threadsdemo\\taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33554811-99BC-42F3-B75C-C0CE5D7C891E}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,67 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "todos.json",
-              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\AsynAwaitApp\\todos.json",
-              "RelativeDocumentMoniker": "AsynAwaitApp\\todos.json",
-              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\AsynAwaitApp\\todos.json",
-              "RelativeToolTip": "AsynAwaitApp\\todos.json",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-25T06:48:35.113Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\TaskApp\\Program.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Program.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\TaskApp\\Program.cs",
+              "RelativeToolTip": "TaskApp\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:10:54.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\TaskApp\\Program.cs",
-              "RelativeDocumentMoniker": "TaskApp\\Program.cs",
-              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\TaskApp\\Program.cs*",
-              "RelativeToolTip": "TaskApp\\Program.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T06:36:00.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AsynAwaitApp",
-              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\AsynAwaitApp\\AsynAwaitApp.csproj",
-              "RelativeDocumentMoniker": "AsynAwaitApp\\AsynAwaitApp.csproj",
-              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\AsynAwaitApp\\AsynAwaitApp.csproj",
-              "RelativeToolTip": "AsynAwaitApp\\AsynAwaitApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-25T06:25:47.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\AsynAwaitApp\\Todo.cs",
-              "RelativeDocumentMoniker": "AsynAwaitApp\\Todo.cs",
-              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\AsynAwaitApp\\Todo.cs",
-              "RelativeToolTip": "AsynAwaitApp\\Todo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T06:03:58.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
               "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\AsynAwaitApp\\Program.cs",
               "RelativeDocumentMoniker": "AsynAwaitApp\\Program.cs",
               "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-2\\ThreadsDemo\\AsynAwaitApp\\Program.cs",
               "RelativeToolTip": "AsynAwaitApp\\Program.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAwwGYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T05:55:45.583Z",
+              "WhenOpened": "2025-11-25T08:09:25.393Z",
               "EditorCaption": ""
             }
           ]

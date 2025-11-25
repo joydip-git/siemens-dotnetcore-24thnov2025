@@ -36,16 +36,8 @@
             Console.WriteLine($"Main: {Environment.CurrentManagedThreadId}");
             Task<long> calcTask = Calculate();
             
-            //calcTask.Wait();
-            //calcTask.Start();
             Console.WriteLine(calcTask.Result);
             Console.WriteLine("Main over...");
-            //Thread.Sleep(3000);
-            //GC.Collect(1);
-            //Program p = new Program();
-            //WeakReference<Program> weakReference = new(p);
-            //p.ToString();
-            //weakReference.TryGetTarget(out var result);
         }
         static Task<long> Calculate()
         {
