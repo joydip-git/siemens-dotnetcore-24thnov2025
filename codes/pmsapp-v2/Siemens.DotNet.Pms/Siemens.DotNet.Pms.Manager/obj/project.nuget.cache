@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NuH4zXF4jZ8=",
+  "success": true,
+  "projectFilePath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsapp-v2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.Manager\\Siemens.DotNet.Pms.Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
