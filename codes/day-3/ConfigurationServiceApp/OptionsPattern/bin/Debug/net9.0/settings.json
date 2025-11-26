@@ -1,0 +1,31 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "key1": "value1",
+  "dbSetting": {
+    "sqlDbPath": "sql path in settings",
+    "orclDbPath": "orcl path"
+  },
+  "sqlConStr": "sql db path",
+  "orclConStr": "orcl db path",
+  "databaseSettings": {
+    "productdbSetting": {
+      "database": "productdb",
+      "server": "localhost",
+      "username": "sa",
+      "password": "sa"
+    },
+    "categorydbSetting": {
+      "database": "catdb",
+      "server": "localhost",
+      "username": "sa",
+      "password": "sa"
+    }
+  }
+}

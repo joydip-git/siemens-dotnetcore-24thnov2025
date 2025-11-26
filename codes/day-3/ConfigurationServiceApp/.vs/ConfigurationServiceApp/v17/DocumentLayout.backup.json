@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\dbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\dbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\dbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\dbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\oracledbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\oracledbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\optionspattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\optionspattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\sqldbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\sqldbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\configurationserviceapp\\optionspattern\\dbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3056B03C-4A52-4A9E-AE00-7743DF768854}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\dbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,43 +46,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.txt",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\Program.txt",
+              "RelativeDocumentMoniker": "OptionsPattern\\Program.txt",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\Program.txt",
+              "RelativeToolTip": "OptionsPattern\\Program.txt",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-26T09:04:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OptionsPattern",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\OptionsPattern.csproj",
+              "RelativeDocumentMoniker": "OptionsPattern\\OptionsPattern.csproj",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\OptionsPattern.csproj",
+              "RelativeToolTip": "OptionsPattern\\OptionsPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T09:02:40.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\IRepo.cs",
+              "RelativeDocumentMoniker": "OptionsPattern\\IRepo.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\IRepo.cs",
+              "RelativeToolTip": "OptionsPattern\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:46:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OracleDbDataProvider.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\OracleDbDataProvider.cs",
+              "RelativeDocumentMoniker": "OptionsPattern\\OracleDbDataProvider.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\OracleDbDataProvider.cs",
+              "RelativeToolTip": "OptionsPattern\\OracleDbDataProvider.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:30:39.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "settings.json",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\settings.json",
+              "RelativeDocumentMoniker": "OptionsPattern\\settings.json",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\settings.json",
+              "RelativeToolTip": "OptionsPattern\\settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T08:21:53.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DbSetting.cs",
               "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\DbSetting.cs",
               "RelativeDocumentMoniker": "OptionsPattern\\DbSetting.cs",
               "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\DbSetting.cs",
               "RelativeToolTip": "OptionsPattern\\DbSetting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T07:05:51.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IDataProvider.cs",
               "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\IDataProvider.cs",
               "RelativeDocumentMoniker": "OptionsPattern\\IDataProvider.cs",
               "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\IDataProvider.cs",
               "RelativeToolTip": "OptionsPattern\\IDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T06:34:07.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbDataProvider.cs",
-              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\DbDataProvider.cs",
-              "RelativeDocumentMoniker": "OptionsPattern\\DbDataProvider.cs",
-              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\DbDataProvider.cs",
-              "RelativeToolTip": "OptionsPattern\\DbDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "SqlDbDataProvider.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\SqlDbDataProvider.cs",
+              "RelativeDocumentMoniker": "OptionsPattern\\SqlDbDataProvider.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\SqlDbDataProvider.cs",
+              "RelativeToolTip": "OptionsPattern\\SqlDbDataProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T06:32:06.746Z",
               "EditorCaption": ""
@@ -75,7 +160,7 @@
               "RelativeDocumentMoniker": "OptionsPattern\\Program.cs",
               "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-3\\ConfigurationServiceApp\\OptionsPattern\\Program.cs",
               "RelativeToolTip": "OptionsPattern\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIA0wBAAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T06:31:41.575Z",
               "EditorCaption": ""

@@ -51,3 +51,4 @@ E:\siemens-dotnetcore-24thnov2025\codes\day-3\ConfigurationServiceApp\OptionsPat
 E:\siemens-dotnetcore-24thnov2025\codes\day-3\ConfigurationServiceApp\OptionsPattern\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
 E:\siemens-dotnetcore-24thnov2025\codes\day-3\ConfigurationServiceApp\OptionsPattern\obj\Debug\net9.0\OptionsPattern.csproj.AssemblyReference.cache
 E:\siemens-dotnetcore-24thnov2025\codes\day-3\ConfigurationServiceApp\OptionsPattern\obj\Debug\net9.0\OptionsP.3546B926.Up2Date
+E:\siemens-dotnetcore-24thnov2025\codes\day-3\ConfigurationServiceApp\OptionsPattern\bin\Debug\net9.0\settings.json

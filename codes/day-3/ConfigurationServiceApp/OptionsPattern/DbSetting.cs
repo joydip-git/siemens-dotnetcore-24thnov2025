@@ -2,6 +2,7 @@
 {
     public class DbSetting
     {
-        public string FilePath { get; set; }=string.Empty;
+        public string SqlDbPath { get; set; } = string.Empty;
+        public string OrclDbPath { get; set; } = string.Empty;
     }
 }

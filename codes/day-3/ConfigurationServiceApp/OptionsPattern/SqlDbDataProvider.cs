@@ -2,12 +2,12 @@
 
 namespace OptionsPattern
 {
-    public class DbDataProvider : IDataProvider
+    public class SqlDbDataProvider : IDataProvider
     {
         private readonly string _dbSettings;
-        public DbDataProvider(IOptions<DbSetting> dbSettingOptions)
+        public SqlDbDataProvider(IOptions<DbSetting> dbSettingOptions)
         {
-            _dbSettings = string.IsNullOrEmpty(dbSettingOptions.Value.FilePath) ? "default path" : dbSettingOptions.Value.FilePath;
+            _dbSettings = string.IsNullOrEmpty(dbSettingOptions.Value.SqlDbPath) ? "default path" : dbSettingOptions.Value.SqlDbPath;
         }
         public string GetData()
         {
