@@ -46,8 +46,7 @@
               "RelativeToolTip": "Siemens.DotNet.Pms.Manager\\IAsyncManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:50:40.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:50:40.093Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Siemens.DotNet.Pms.Manager\\AsyncProductManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:50:38.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:50:38.986Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Siemens.DotNet.Pms.UserInterface\\appSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-26T09:47:50.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:47:50.363Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "Siemens.DotNet.Pms.UserInterface\\Program.cs",
               "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsapp-v2\\Siemens.DotNet.Pms\\Siemens.DotNet.Pms.UserInterface\\Program.cs",
               "RelativeToolTip": "Siemens.DotNet.Pms.UserInterface\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEYAAAA4AQAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T09:43:14.402Z",
               "EditorCaption": ""
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Siemens.DotNet.Pms.Entities\\FileSetting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:40:17.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:40:17.963Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Siemens.DotNet.Pms.Repository\\AsyncFileRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAABJwA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:39:49.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:39:49.462Z"
             }
           ]
         }

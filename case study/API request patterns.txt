@@ -1,0 +1,15 @@
+http://localhost:4200/products/all 	GET	NA	{message:'', status:200, data:[{},{},..]}
+
+http://localhost:4200/products/{id} 	GET	id	{message:'', status:200, data:{}}
+http://localhost:4200/products/{id} 	GET	id	{message:'', status:500, data: null }
+
+http://localhost:4200/products/add 	POST	{}	{message:'', status:201, data:{}}
+http://localhost:4200/products/add 	POST	{}	{message:'', status:500, data: null }
+
+http://localhost:4200/products/edit/{id}PUT	id,{}	{message:'', status:200, data:{}}
+http://localhost:4200/products/edit/{id}PUT	id,{}	{message:'', status:500, data: null}
+
+http://localhost:4200/products/delete?id={id}DELETE	id	{message:'', status:200, data:{}}
+
+http://localhost:4200/products/delete?id={id}DELETE	id	{message:'', status:500, data: null }
+

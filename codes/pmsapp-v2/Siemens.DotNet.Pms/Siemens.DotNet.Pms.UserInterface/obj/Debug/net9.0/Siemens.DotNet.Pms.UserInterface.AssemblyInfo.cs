@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Siemens.DotNet.Pms.UserInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e30903407fb32e3732c698de9a8311fa71606ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8bb606afbc6c6cdb68d9ee3d167f4efb5d7995e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Siemens.DotNet.Pms.UserInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Siemens.DotNet.Pms.UserInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,3 +17,37 @@ Microsoft.Extensions.Configuration.Json
 
 Bind a POCO object to a configuration setting section
 Microsoft.Extensions.Configuration.Binder
+
+
+Web App
+	- Page
+	- RESTful API
+
+ASP.NET Core
+	- Core App
+
+	- RESTful API (ASP.NET Core Web API)
+	- Web Page 
+	- Razor Page
+	- MVC web
+	- Blazor
+
+
+RouteTable => [new Route{uri="home/hello","",""]
+http://localhost:5273/home/hello
+	RouteDictionary 
+	["controller"]="home"
+	["uri"]="hello"
+
+Activator.CreateInstance(typofHomeController)
+_mi.Invoke(obj,null)
+
+	
+
+
+
+
+
+	
+
+
