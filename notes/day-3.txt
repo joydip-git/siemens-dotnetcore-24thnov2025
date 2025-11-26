@@ -1,0 +1,19 @@
+Configuration services:
+--------------------------------
+in-memory settings
+json settings file
+environment variables
+user secrets
+azure key/value vault
+xml configuration file
+etc.
+
+IConfigurationRoot, IConfiguration, IConfigurationSetting etc. (Microsoft.Extensions.Configuration.Abstractions)
+
+Core Configuration Provider class (Microsoft.Extensions.Configuration)
+
+JSON provider
+Microsoft.Extensions.Configuration.Json
+
+Bind a POCO object to a configuration setting section
+Microsoft.Extensions.Configuration.Binder

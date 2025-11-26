@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 102,
+    "Name": "Lenovo ThinkPad",
+    "Price": 140000,
+    "Description": "new laptop from Lenovo"
+  },
+  {
+    "Id": 101,
+    "Name": "HP Probook",
+    "Price": 130000,
+    "Description": "new laptop from HP"
+  }
+]
