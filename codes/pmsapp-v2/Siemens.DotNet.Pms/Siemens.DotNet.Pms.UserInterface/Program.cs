@@ -60,18 +60,26 @@ static void ConfigureServices(IHostApplicationBuilder builder)
     //registering IAsyncRepository<T> type service ( depends on IOptions<FileSetting> type service)
     //registering IAsyncManager<T, TId> type (depends on IAsyncRepository<T> type service)
 
-    //builder
-    //    .Services
-    //    .AddScoped<IAsyncRepository<Product>, AsyncFileRepository<Product>>()
-    //    .AddScoped<IAsyncManager<Product, int>, AsyncProductManager>();
-
-    builder
-        .Services
-        .AddSingleton<IAsyncRepository<Product>, AsyncFileRepository<Product>>()
-        .AddSingleton<IAsyncManager<Product, int>, AsyncProductManager>();
+    //1. as transient service: in a service scope whenever you demand instance of a service class, every time new instance will be created. all the instances will disposed off at the end of the scope
 
     //builder
     //    .Services
     //    .AddTransient<IAsyncRepository<Product>, AsyncFileRepository<Product>>()
     //    .AddTransient<IAsyncManager<Product, int>, AsyncProductManager>();
+
+
+    //2. as scoped service: in a service scope if you demand to create a new instance of service mutiple times, only one instance will be created and that same instance will be served multiple times in the same scope, rather than creating new instance every time in that scope. this instance will be disposed off at the end of the scope where it was created.
+
+    //builder
+    //    .Services
+    //    .AddScoped<IAsyncRepository<Product>, AsyncFileRepository<Product>>()
+    //    .AddScoped<IAsyncManager<Product, int>, AsyncProductManager>();
+
+    //3. as singleton service: for entire application only a single instance will be created. this instance though created in a scope, is NOT tied to any scope and is NOT disposed of at the end of a scope, rather at the end of the application
+    builder
+        .Services
+        .AddSingleton<IAsyncRepository<Product>, AsyncFileRepository<Product>>()
+        .AddSingleton<IAsyncManager<Product, int>, AsyncProductManager>();
+
+   
 }
