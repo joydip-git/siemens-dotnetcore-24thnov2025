@@ -1,0 +1,16 @@
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\bin\Debug\net9.0\CalculationExtensionLibrary.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\bin\Debug\net9.0\CalculationExtensionLibrary.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\bin\Debug\net9.0\CalculationExtensionLibrary.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\bin\Debug\net9.0\CalculationLibrary.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\bin\Debug\net9.0\CalculationLibrary.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\CalculationExtensionLibrary.csproj.AssemblyReference.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\CalculationExtensionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\CalculationExtensionLibrary.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\CalculationExtensionLibrary.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\CalculationExtensionLibrary.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\CalculationExtensionLibrary.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\Calculat.CEF8D5B1.Up2Date
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\CalculationExtensionLibrary.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\refint\CalculationExtensionLibrary.dll
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\CalculationExtensionLibrary.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\day-4\ExtensionMethodDemo\CalculationExtensionLibrary\obj\Debug\net9.0\ref\CalculationExtensionLibrary.dll
