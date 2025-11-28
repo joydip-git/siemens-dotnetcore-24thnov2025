@@ -1,0 +1,38 @@
+﻿using var context = new EfCoreDemo.SiemensDbContext();
+var records = context.Employees;
+
+//records
+//    .Add(new EfCoreDemo.Employee
+//    {
+//        EmpId = 103,
+//        EmpName = "John Doe",
+//        Department = "IT",
+//        Salary = 60000
+//    });
+//int res = context.SaveChanges();
+//Console.WriteLine(res > 0 ? "added" : "failed");
+
+
+//var found = records.Find(103);
+//if(found != null)
+//{
+//    found.Salary = 65000;
+//    found.EmpName = "vinod";
+//    int res = context.SaveChanges();
+//    Console.WriteLine(res > 0 ? "updated" : "update failed");
+//}
+
+var found = records.Find(103);
+if(found != null)
+{
+    records.Remove(found);
+    int res = context.SaveChanges();
+    Console.WriteLine(res > 0 ? "deleted" : "delete failed");
+}
+
+records
+    .ToList()
+    .ForEach(e =>
+{
+    Console.WriteLine($"ID: {e.EmpId}, Name: {e.EmpName}, Dept: {e.Department}, Salary: {e.Salary}");
+});

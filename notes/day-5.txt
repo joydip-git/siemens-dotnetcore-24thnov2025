@@ -1,0 +1,58 @@
+Entity Framework Core:
+-------------------------------
+Object Relational Mapping Model (OR/M tool)
+
+Code First Approach
+
+Plain Old CLR Object (POCO) type class (entity) => maps to the table
+Will contain mapping information
+every property has to be mapped to every column of a table
+
+mapping:
+	1. using attributes (annotations)
+	2. Fluent API
+
+DbContext => helps you map to the database
+	     helps you fetch the data from database table(s) through the property (properties) all of which return(s) a collection of POCO class instances
+
+Migration
+	=> you can get the database and tables created based on the DbContext and POCO class configuration and mapping
+	=> you can get the existing tables updated too
+
+core package: Microsoft.EntityFrameworkCore
+core abstractions package:  Microsoft.EntityFrameworkCore.Abstractions
+
+specific packages: Microsoft.EntityFrameworkCore.SqlServer/SQLite/PostgreSQL/..
+
+for CLI support (for Migration commands)
+package: Microsoft.EntityFrameworkCore.Tools
+
+Enables these commonly used commands:
+Add-Migration
+Bundle-Migration
+Drop-Database
+Get-DbContext
+Get-Migration
+Optimize-DbContext
+Remove-Migration
+Scaffold-DbContext
+Script-Migration
+Update-Database
+
+specific CLI tool EF: ef
+package: Microsoft.EntityFrameworkCore.Design
+
+
+departments: deptid (pk, int, not null), deptname(varchar(50), not null)
+employees: empid (pk, int, not null), empname (varchar(50), not null), salary (Decimal(18,2),0), deptid (int, fk -> deptid(pk) of departments, null)
+
+DbContextOptions: configuration for DbContext object
+DbContextOptionsBuilder: builds a configuration for a specific data provider for the current DbContext
+
+DbContextOptionsBuilder -> DbContextOptions -> DbContext
+
+
+
+
+
+

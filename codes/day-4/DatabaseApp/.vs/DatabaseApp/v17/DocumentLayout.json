@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\DatabaseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6CA2B-846C-4599-86BE-95F24CF73807}|DatabaseApp\\DatabaseApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\databaseapp\\databaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6CA2B-846C-4599-86BE-95F24CF73807}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6CA2B-846C-4599-86BE-95F24CF73807}|DatabaseApp\\DatabaseApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\databaseapp\\databaseapp\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6CA2B-846C-4599-86BE-95F24CF73807}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6CA2B-846C-4599-86BE-95F24CF73807}|DatabaseApp\\DatabaseApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\databaseapp\\databaseapp\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{58C6CA2B-846C-4599-86BE-95F24CF73807}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6CA2B-846C-4599-86BE-95F24CF73807}|DatabaseApp\\DatabaseApp.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\databaseapp\\databaseapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6CA2B-846C-4599-86BE-95F24CF73807}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.txt",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Program.txt",
+              "RelativeDocumentMoniker": "DatabaseApp\\Program.txt",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Program.txt",
+              "RelativeToolTip": "DatabaseApp\\Program.txt",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-27T10:33:20.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Employee.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\Employee.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Employee.cs",
+              "RelativeToolTip": "DatabaseApp\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:28:25.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\DatabaseApp\\DatabaseApp\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\EmployeeDbContext.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\DatabaseApp\\DatabaseApp\\EmployeeDbContext.cs",
+              "RelativeToolTip": "DatabaseApp\\EmployeeDbContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:26:31.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\Program.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Program.cs",
+              "RelativeToolTip": "DatabaseApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:56:43.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

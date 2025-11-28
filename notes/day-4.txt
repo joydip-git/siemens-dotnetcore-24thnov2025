@@ -1,0 +1,71 @@
+app.Use()
+app.Run()
+app.Map()
+
+HttpRequest HttpResponse HttpContext WebApplication
+
+http://localhost:1000/home/hello/joydip
+
+routing middleware builds the endpoint
+home/hello/joydip
+
+authentication  middleware
+
+authorize
+
+MapController
+home/hello/{x?}		=> Home 	-> Hello([FromRoute(Name="x")]string? name)
+product/all			=> Product 	-> GetProducts
+
+
+
+SQL Server Express Edition
+SQL Server Management Studio (SSMS)
+
+ADO.NET (ActiveX Data Object .NET)
+
+Data Provider
+DbConnection
+	SqlConnection
+	OracleConnection
+	OledbConnection
+DbCommand
+	SqlCommand
+	OracleCommand
+	OledbCommand
+DbDataReader
+	SqlDataReader
+	OracleDataReader
+	OledbDataReader
+
+
+Data Consumers:
+	DataTable
+	DataRow
+	DataColumn
+	DataRelation
+	
+Microsoft.Data.SqlClient
+select query and Non-select query
+
+
+Data Source=JOYDIP-PC\SQLEXPRESS;Initial Catalog=siemensdb;Integrated Security=True;Trust Server Certificate=True;
+
+Object Relational/Mapping tool
+Entity Framework
+	=> Existing DB and Table => Db First Approach
+	=> Code First Approach
+	=> Db Model First
+
+EF Core [Code First Approach]
+	=> DbContext -> EmployeeDbContext<T>
+				public DbSet<T> Ts{get;set;}
+
+
+
+
+
+
+
+
+

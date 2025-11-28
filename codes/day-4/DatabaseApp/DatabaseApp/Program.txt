@@ -1,0 +1,49 @@
+﻿using Microsoft.Data.SqlClient;
+using System.Data;
+
+SqlConnection? connection = null;
+try
+{    
+    string conStr = @"Data Source=JOYDIP-PC\SQLEXPRESS;Initial Catalog=siemensdb;Integrated Security=True;Trust Server Certificate=True;";
+    //string conStr = @"server=joydip-pc\sqlexpress;database=siemensdb;user id=sa;password=SqlServer2024,trustservercerticifate=true";
+    //"server" or "data source"
+    //"database" or "initial catalog"
+    //"user id" or "uid"
+    //"password" or "pwd"
+
+    string query = "SELECT * FROM Employees";
+    using (connection = new SqlConnection(conStr))
+    {
+        //SqlCommand command = new SqlCommand(query, connection);
+
+        SqlCommand command = connection == null ? new SqlCommand(query, connection) : connection.CreateCommand();
+        command.CommandText = query;
+
+        connection?.Open();
+        //Console.WriteLine(connection.State.ToString());
+        //if(connection.State == ConnectionState.Closed)
+        //    connection.Open();
+
+        //command.ExecuteScalar();
+        //command.ExecuteNonQuery();
+        SqlDataReader reader = command.ExecuteReader();
+        while (reader.Read())
+        {
+            Console.WriteLine($"{reader["empid"]} \t {reader["empname"]} \t {reader["salary"]}\t{reader["department"]}");
+        }
+        //reader.Close();
+    }
+}
+catch (SqlException ex)
+{
+    Console.WriteLine(ex);
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex);
+}
+finally
+{
+    if (connection?.State == ConnectionState.Open)
+        connection.Close();
+}
