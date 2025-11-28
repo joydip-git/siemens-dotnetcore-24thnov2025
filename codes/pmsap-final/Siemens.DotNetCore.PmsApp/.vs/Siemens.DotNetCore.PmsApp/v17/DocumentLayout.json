@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14F35E81-93C4-4C45-AA04-5A4C337CD323}|Siemens.DotNetCore.PmsApp.ServiceManager\\Siemens.DotNetCore.PmsApp.ServiceManager.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.servicemanager\\iasyncservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F35E81-93C4-4C45-AA04-5A4C337CD323}|Siemens.DotNetCore.PmsApp.ServiceManager\\Siemens.DotNetCore.PmsApp.ServiceManager.csproj|solutionrelative:siemens.dotnetcore.pmsapp.servicemanager\\iasyncservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F35E81-93C4-4C45-AA04-5A4C337CD323}|Siemens.DotNetCore.PmsApp.ServiceManager\\Siemens.DotNetCore.PmsApp.ServiceManager.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.servicemanager\\productasyncservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F35E81-93C4-4C45-AA04-5A4C337CD323}|Siemens.DotNetCore.PmsApp.ServiceManager\\Siemens.DotNetCore.PmsApp.ServiceManager.csproj|solutionrelative:siemens.dotnetcore.pmsapp.servicemanager\\productasyncservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F35E81-93C4-4C45-AA04-5A4C337CD323}|Siemens.DotNetCore.PmsApp.ServiceManager\\Siemens.DotNetCore.PmsApp.ServiceManager.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.servicemanager\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F35E81-93C4-4C45-AA04-5A4C337CD323}|Siemens.DotNetCore.PmsApp.ServiceManager\\Siemens.DotNetCore.PmsApp.ServiceManager.csproj|solutionrelative:siemens.dotnetcore.pmsapp.servicemanager\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IAsyncServiceManager.cs",
-              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceManager\\IAsyncServiceManager.cs",
-              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.ServiceManager\\IAsyncServiceManager.cs",
-              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceManager\\IAsyncServiceManager.cs",
-              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.ServiceManager\\IAsyncServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceManager\\Mapper.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.ServiceManager\\Mapper.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceManager\\Mapper.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.ServiceManager\\Mapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T09:26:36.361Z",
+              "WhenOpened": "2025-11-28T10:03:57.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAsyncServiceManager.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceManager\\ProductAsyncServiceManager.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.ServiceManager\\ProductAsyncServiceManager.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceManager\\ProductAsyncServiceManager.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.ServiceManager\\ProductAsyncServiceManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwHIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:52:59.427Z",
               "EditorCaption": ""
             }
           ]

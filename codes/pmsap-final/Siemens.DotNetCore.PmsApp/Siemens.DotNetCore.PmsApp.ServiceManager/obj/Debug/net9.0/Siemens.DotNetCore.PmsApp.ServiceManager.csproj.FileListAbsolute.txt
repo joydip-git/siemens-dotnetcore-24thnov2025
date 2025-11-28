@@ -10,3 +10,9 @@ E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Si
 E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\refint\Siemens.DotNetCore.PmsApp.ServiceManager.dll
 E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.pdb
 E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\ref\Siemens.DotNetCore.PmsApp.ServiceManager.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.csproj.AssemblyReference.cache
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens..FB6636B9.Up2Date
