@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.10" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Siemens.DotNetCore.PmsApp.DTOs\Siemens.DotNetCore.PmsApp.DTOs.csproj" />
+    <ProjectReference Include="..\Siemens.DotNetCore.PmsApp.ServiceManager\Siemens.DotNetCore.PmsApp.ServiceManager.csproj" />
+  </ItemGroup>
+
 </Project>
