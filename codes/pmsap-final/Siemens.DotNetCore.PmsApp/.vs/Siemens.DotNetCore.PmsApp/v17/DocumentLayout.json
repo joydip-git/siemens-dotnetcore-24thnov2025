@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.repository\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|solutionrelative:siemens.dotnetcore.pmsapp.repository\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.repository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|solutionrelative:siemens.dotnetcore.pmsapp.repository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F35E81-93C4-4C45-AA04-5A4C337CD323}|Siemens.DotNetCore.PmsApp.ServiceManager\\Siemens.DotNetCore.PmsApp.ServiceManager.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.servicemanager\\iasyncservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F35E81-93C4-4C45-AA04-5A4C337CD323}|Siemens.DotNetCore.PmsApp.ServiceManager\\Siemens.DotNetCore.PmsApp.ServiceManager.csproj|solutionrelative:siemens.dotnetcore.pmsapp.servicemanager\\iasyncservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SiemensDbContext.cs",
-              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
-              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
-              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
-              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAWAAAAAAAAAA==",
+              "Title": "IAsyncServiceManager.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceManager\\IAsyncServiceManager.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.ServiceManager\\IAsyncServiceManager.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceManager\\IAsyncServiceManager.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.ServiceManager\\IAsyncServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T06:54:24.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\Product.cs",
-              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.Repository\\Product.cs",
-              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\Product.cs",
-              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.Repository\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T06:53:12.99Z",
+              "WhenOpened": "2025-11-28T09:26:36.361Z",
               "EditorCaption": ""
             }
           ]

@@ -3,14 +3,14 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Siemens.DotNetCore.PmsApp.Repository
 {
-    public class SiemensDbContext : DbContext
+    public class SiemensDbContext(DbContextOptions<SiemensDbContext> options) : DbContext(options)
     {
         public DbSet<Product> Products { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(@"Data Source=JOYDIP-PC\SQLEXPRESS;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Initial Catalog=siemensdb;");
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer(@"Data Source=JOYDIP-PC\SQLEXPRESS;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Initial Catalog=siemensdb;");
+        //}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

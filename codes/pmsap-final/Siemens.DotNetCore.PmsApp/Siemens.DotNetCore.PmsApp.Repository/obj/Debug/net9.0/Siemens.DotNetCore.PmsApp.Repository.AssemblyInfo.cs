@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Siemens.DotNetCore.PmsApp.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12714ea835424ea8a5c9fdb207f82454fe27c20d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+126c7a81c41f264d9afed95847e833d1cd075329")]
 [assembly: System.Reflection.AssemblyProductAttribute("Siemens.DotNetCore.PmsApp.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Siemens.DotNetCore.PmsApp.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

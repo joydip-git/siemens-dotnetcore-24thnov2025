@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6C320AB-F233-42C0-A7EE-4E0951EFFFE1}|Siemens.DotNetCore.PmsApp.DTOs\\Siemens.DotNetCore.PmsApp.DTOs.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6C320AB-F233-42C0-A7EE-4E0951EFFFE1}|Siemens.DotNetCore.PmsApp.DTOs\\Siemens.DotNetCore.PmsApp.DTOs.csproj|solutionrelative:siemens.dotnetcore.pmsapp.dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\Migrations\\20251128083111_InitialDbSetUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Siemens.DotNetCore.PmsApp.Repository\\Migrations\\20251128083111_InitialDbSetUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.repository\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|solutionrelative:siemens.dotnetcore.pmsapp.repository\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.repository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|solutionrelative:siemens.dotnetcore.pmsapp.repository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.DTOs\\ProductDTO.cs",
-              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Title": "20251128083111_InitialDbSetUp.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\Migrations\\20251128083111_InitialDbSetUp.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.Repository\\Migrations\\20251128083111_InitialDbSetUp.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\Migrations\\20251128083111_InitialDbSetUp.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.Repository\\Migrations\\20251128083111_InitialDbSetUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T06:49:46.161Z",
+              "WhenOpened": "2025-11-28T08:31:11.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiemensDbContext.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAsAAAC/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:54:24.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\Product.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.Repository\\Product.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\Product.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.Repository\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:53:12.99Z",
               "EditorCaption": ""
             }
           ]

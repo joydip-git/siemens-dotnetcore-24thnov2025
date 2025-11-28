@@ -66,7 +66,7 @@ POCO -> Product
 DbContext -> Products
 
 Services
-IService<T,TId> -> generic
+IAsyncServiceManager<T,TId> -> generic
 	Task<T> addasync(T tobj)
 	Task<T> removeasync(TId id)
 	Task<T> update(id,tobj)
@@ -85,14 +85,12 @@ ProductsController -> action
 	getallProductasync()
 
 solution name: Siemens.DotNetCore.PmsApp
-entities: Siemens.DotNetCore.PmsApp.Entities
+entities: Siemens.DotNetCore.PmsApp.DTOs
 repo: Siemens.DotNetCore.PmsApp.Repository
 servicemanager: Siemens.DotNetCore.PmsApp.Entities.ServiceManager
 web api: Siemens.DotNetCore.PmsApp.Entities.PmsAPI
-	
 
 
-
-
+Data Source=JOYDIP-PC\SQLEXPRESS;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Initial Catalog=siemensdb;
 
 
