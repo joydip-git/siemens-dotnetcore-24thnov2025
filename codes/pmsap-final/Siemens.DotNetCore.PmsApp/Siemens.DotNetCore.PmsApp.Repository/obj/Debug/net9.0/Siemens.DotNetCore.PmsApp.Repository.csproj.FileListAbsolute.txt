@@ -1,0 +1,12 @@
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\refint\Siemens.DotNetCore.PmsApp.Repository.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\ref\Siemens.DotNetCore.PmsApp.Repository.dll

@@ -1,0 +1,12 @@
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\refint\Siemens.DotNetCore.PmsApp.ServiceManager.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.ServiceManager.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.ServiceManager\obj\Debug\net9.0\ref\Siemens.DotNetCore.PmsApp.ServiceManager.dll

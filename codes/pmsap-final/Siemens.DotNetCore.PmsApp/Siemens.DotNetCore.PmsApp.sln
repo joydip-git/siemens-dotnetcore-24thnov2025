@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNetCore.PmsApp.DTOs", "Siemens.DotNetCore.PmsApp.DTOs\Siemens.DotNetCore.PmsApp.DTOs.csproj", "{C6C320AB-F233-42C0-A7EE-4E0951EFFFE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNetCore.PmsApp.Repository", "Siemens.DotNetCore.PmsApp.Repository\Siemens.DotNetCore.PmsApp.Repository.csproj", "{5CBD0AEF-D967-465B-9E19-805AB54F21F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNetCore.PmsApp.ServiceManager", "Siemens.DotNetCore.PmsApp.ServiceManager\Siemens.DotNetCore.PmsApp.ServiceManager.csproj", "{14F35E81-93C4-4C45-AA04-5A4C337CD323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNetCore.PmsApp.API", "Siemens.DotNetCore.PmsApp.API\Siemens.DotNetCore.PmsApp.API.csproj", "{473A93C1-87D7-4659-97A4-893243EA4024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C320AB-F233-42C0-A7EE-4E0951EFFFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C320AB-F233-42C0-A7EE-4E0951EFFFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C320AB-F233-42C0-A7EE-4E0951EFFFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C320AB-F233-42C0-A7EE-4E0951EFFFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBD0AEF-D967-465B-9E19-805AB54F21F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBD0AEF-D967-465B-9E19-805AB54F21F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBD0AEF-D967-465B-9E19-805AB54F21F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBD0AEF-D967-465B-9E19-805AB54F21F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F35E81-93C4-4C45-AA04-5A4C337CD323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F35E81-93C4-4C45-AA04-5A4C337CD323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F35E81-93C4-4C45-AA04-5A4C337CD323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F35E81-93C4-4C45-AA04-5A4C337CD323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473A93C1-87D7-4659-97A4-893243EA4024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473A93C1-87D7-4659-97A4-893243EA4024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473A93C1-87D7-4659-97A4-893243EA4024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473A93C1-87D7-4659-97A4-893243EA4024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4271F4F2-1763-4805-9664-3B6856EF02C7}
+	EndGlobalSection
+EndGlobal

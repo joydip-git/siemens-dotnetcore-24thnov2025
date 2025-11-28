@@ -52,6 +52,46 @@ DbContextOptionsBuilder: builds a configuration for a specific data provider for
 DbContextOptionsBuilder -> DbContextOptions -> DbContext
 
 
+products: productid(pk, int, not null), productname (varchar(50), not null), price (decimal(18,2), null, default 0), description (varcharmax), null)
+
+users: email (varchar(100), not null, pk), password (varchar(10), not null)
+
+Entities:
+DTO -> ProductDTO
+
+Repositories:
+DbContextOptions
+
+POCO -> Product
+DbContext -> Products
+
+Services
+IService<T,TId> -> generic
+	Task<T> addasync(T tobj)
+	Task<T> removeasync(TId id)
+	Task<T> update(id,tobj)
+	Task<T> getasync(id)
+	Task<List<T>> getallasync()
+
+api/products
+ProductsController -> action
+	add
+	addProductAsync([FromBody]Product p)
+
+	{id}
+	getProductasync(int id)
+
+	all
+	getallProductasync()
+
+solution name: Siemens.DotNetCore.PmsApp
+entities: Siemens.DotNetCore.PmsApp.Entities
+repo: Siemens.DotNetCore.PmsApp.Repository
+servicemanager: Siemens.DotNetCore.PmsApp.Entities.ServiceManager
+web api: Siemens.DotNetCore.PmsApp.Entities.PmsAPI
+	
+
+
 
 
 

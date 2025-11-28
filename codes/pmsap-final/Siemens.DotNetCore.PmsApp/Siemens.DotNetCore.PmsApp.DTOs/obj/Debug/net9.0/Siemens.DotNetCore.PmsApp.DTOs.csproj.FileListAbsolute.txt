@@ -1,0 +1,12 @@
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.deps.json
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.AssemblyInfoInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.AssemblyInfo.cs
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.csproj.CoreCompileInputs.cache
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.sourcelink.json
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\obj\Debug\net9.0\refint\Siemens.DotNetCore.PmsApp.DTOs.dll
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.DTOs.pdb
+E:\siemens-dotnetcore-24thnov2025\codes\pmsap-final\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DTOs\obj\Debug\net9.0\ref\Siemens.DotNetCore.PmsApp.DTOs.dll

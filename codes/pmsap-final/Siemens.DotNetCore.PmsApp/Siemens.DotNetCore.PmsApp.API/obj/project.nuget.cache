@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4doc+bVIeNE=",
+  "success": true,
+  "projectFilePath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
