@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C320AB-F233-42C0-A7EE-4E0951EFFFE1}|Siemens.DotNetCore.PmsApp.DTOs\\Siemens.DotNetCore.PmsApp.DTOs.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C320AB-F233-42C0-A7EE-4E0951EFFFE1}|Siemens.DotNetCore.PmsApp.DTOs\\Siemens.DotNetCore.PmsApp.DTOs.csproj|solutionrelative:siemens.dotnetcore.pmsapp.dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.DTOs\\ProductDTO.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:49:46.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
