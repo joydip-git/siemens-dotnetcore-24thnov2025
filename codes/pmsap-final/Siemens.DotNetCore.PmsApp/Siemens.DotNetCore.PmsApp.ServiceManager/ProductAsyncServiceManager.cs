@@ -19,13 +19,12 @@ namespace Siemens.DotNetCore.PmsApp.ServiceManager
             {
                 var products = _context.Products;
                 Product product = Mapper.Map<ProductDTO, Product>(obj);
-                //EntityEntry<Product> entry = products.Add(product);
-                //entry.State = EntityState.Added;
-                products.Add(product);
+                EntityEntry<Product> entry = products.Add(product);
+                entry.State = EntityState.Added;
+                //products.Add(product);
                 int result = await _context.SaveChangesAsync();
-                var addedProduct = products.Last<Product>();
                 return result > 0
-                    ? Mapper.Map<Product, ProductDTO>(addedProduct)
+                    ? Mapper.Map<Product, ProductDTO>(entry.Entity)
                     : throw new Exception("Insert operation failed");
             }
             catch (Exception)
@@ -34,22 +33,25 @@ namespace Siemens.DotNetCore.PmsApp.ServiceManager
             }
         }
 
-        public async Task<List<ProductDTO>> GetAllAsync()
+        public Task<List<ProductDTO>> GetAllAsync()
         {
             try
             {
                 List<ProductDTO> productDTOs = [];
                 DbSet<Product> products = _context.Products;
-                products
-                    .ToList()
-                    .ForEach(
-                        p =>
-                        {
-                            ProductDTO dto = Mapper.Map<Product, ProductDTO>(p);
-                            productDTOs.Add(dto);
-                        }
-                    );
-                return productDTOs;
+                if (!products.Any())
+                    throw new Exception("No products found");
+                else
+                    products
+                        .ToList()
+                        .ForEach(
+                            p =>
+                            {
+                                ProductDTO dto = Mapper.Map<Product, ProductDTO>(p);
+                                productDTOs.Add(dto);
+                            }
+                        );
+                return Task.FromResult(productDTOs);
             }
             catch (Exception)
             {

@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.api\\siemens.dotnetcore.pmsapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|solutionrelative:siemens.dotnetcore.pmsapp.api\\siemens.dotnetcore.pmsapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|solutionrelative:siemens.dotnetcore.pmsapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|solutionrelative:siemens.dotnetcore.pmsapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|solutionrelative:siemens.dotnetcore.pmsapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|solutionrelative:siemens.dotnetcore.pmsapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.repository\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBD0AEF-D967-465B-9E19-805AB54F21F9}|Siemens.DotNetCore.PmsApp.Repository\\Siemens.DotNetCore.PmsApp.Repository.csproj|solutionrelative:siemens.dotnetcore.pmsapp.repository\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|e:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{473A93C1-87D7-4659-97A4-893243EA4024}|Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.csproj|solutionrelative:siemens.dotnetcore.pmsapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -19,14 +43,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Siemens.DotNetCore.PmsApp.API.http",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.http",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.http",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.http",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.API\\Siemens.DotNetCore.PmsApp.API.http",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-30T03:41:51.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SiemensDbContext.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.Repository\\SiemensDbContext.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwFgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:25:22.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.API\\Program.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Program.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.API\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:35:32.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.API\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:00:31.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T09:48:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\appsettings.json",
               "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.API\\appsettings.json",
               "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\appsettings.json",
               "RelativeToolTip": "Siemens.DotNetCore.PmsApp.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-28T10:30:57.169Z",
+              "WhenOpened": "2025-11-29T09:42:10.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\siemens-dotnetcore-24thnov2025\\codes\\pmsap-final\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:15:10.016Z",
               "EditorCaption": ""
             }
           ]

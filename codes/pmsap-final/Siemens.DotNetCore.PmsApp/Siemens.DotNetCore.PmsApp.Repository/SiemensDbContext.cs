@@ -3,9 +3,11 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Siemens.DotNetCore.PmsApp.Repository
 {
-    public class SiemensDbContext(DbContextOptions<SiemensDbContext> options) : DbContext(options)
+    //public class SiemensDbContext : DbContext
+    public class SiemensDbContext(DbContextOptions<SiemensDbContext> options) : DbContext(options)    
     {
         public DbSet<Product> Products { get; set; }
+        public DbSet<User> Users { get; set; }
 
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         //{
@@ -69,6 +71,28 @@ namespace Siemens.DotNetCore.PmsApp.Repository
                         Price = 500.00m,
                         Description = "A lightweight tablet."
                     }
+                );
+
+            EntityTypeBuilder<User> userModelBuilder = modelBuilder.Entity<User>();
+
+            userModelBuilder
+                .ToTable("users")
+                .HasKey(user => user.UserName);
+
+            userModelBuilder
+                .Property<string>(user => user.UserName)
+                .HasColumnName("userid")
+                .HasColumnType("varchar(50)")
+                .IsRequired(true);
+
+            userModelBuilder
+               .Property<string>(user => user.Password)
+               .HasColumnName("password")
+               .HasColumnType("varchar(12)")
+               .IsRequired(true);
+
+            userModelBuilder.HasData(
+                new User() { UserName = "joydip@gmail.com", Password = "Joydip@123" }
                 );
         }
     }

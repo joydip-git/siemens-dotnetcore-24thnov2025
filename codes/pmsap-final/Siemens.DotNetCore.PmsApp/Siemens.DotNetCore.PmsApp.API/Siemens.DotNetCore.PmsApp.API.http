@@ -1,6 +1,48 @@
 @Siemens.DotNetCore.PmsApp.API_HostAddress = http://localhost:5221
 
-GET {{Siemens.DotNetCore.PmsApp.API_HostAddress}}/weatherforecast/
+@Siemens.DotNetCore.PmsApp.API_Token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqb3lkaXBAZ21haWwuY29tIiwiZXhwIjoxNzY0NDc1OTc5LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUyMjEiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjUyMjEifQ.8-xk9MzfpWWNlF448e5ppa6-4TKIXFrcA8YGzmRB71Q
+
+GET {{Siemens.DotNetCore.PmsApp.API_HostAddress}}/api/product/all
+Accept: application/json
+Content-Type: application/json 
+Authorization: Bearer {{Siemens.DotNetCore.PmsApp.API_Token}}
+
+
+###
+GET {{Siemens.DotNetCore.PmsApp.API_HostAddress}}/api/product/1
 Accept: application/json
 
 ###
+GET {{Siemens.DotNetCore.PmsApp.API_HostAddress}}/api/product/1
+Accept: application/json
+
+###
+POST {{Siemens.DotNetCore.PmsApp.API_HostAddress}}/api/product/add
+Content-Type: application/json
+{
+  "productName": "New Product 1",
+  "description": "This is a new product",
+  "price": 100
+}
+
+###
+PUT {{Siemens.DotNetCore.PmsApp.API_HostAddress}}/api/product/edit?id=5
+Content-Type: application/json
+{
+  "productName": "Dell XPS",
+  "description": "This is a new laptop",
+  "price": 120000
+}
+
+###
+DELETE {{Siemens.DotNetCore.PmsApp.API_HostAddress}}/api/product/delete/4
+
+Accept: application/json
+
+###
+POST {{Siemens.DotNetCore.PmsApp.API_HostAddress}}/api/auth/login
+Content-Type: application/json
+{
+  "username": "joydip@gmail.com",
+  "password": "Joydip@123"
+}

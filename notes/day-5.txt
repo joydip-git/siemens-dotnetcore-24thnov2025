@@ -65,13 +65,15 @@ DbContextOptions
 POCO -> Product
 DbContext -> Products
 
-Services
-IAsyncServiceManager<T,TId> -> generic
-	Task<T> addasync(T tobj)
-	Task<T> removeasync(TId id)
-	Task<T> update(id,tobj)
-	Task<T> getasync(id)
-	Task<List<T>> getallasync()
+ServicesManager:
+-------------------------------------------
+IAsyncServiceManager<T,TId> 
+
+	Task<T> AddAsync(T obj);
+	Task<T> RemoveAsync(TId id);
+	Task<T> UpdateAsync(TId id,T obj);
+	Task<T> GetAsync(TId id);
+	Task<List<T>> GetAllAsync();
 
 api/products
 ProductsController -> action

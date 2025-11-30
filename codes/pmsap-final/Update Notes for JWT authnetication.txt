@@ -1,0 +1,75 @@
+authentication in ASP.NET Core Web API application using JWT
+--------------------------------------------------------------------
+Kindly learn about JWT (JSON Web Token) based authentication from this URL: https://www.jwt.io/introduction
+
+In order to use JWT based authentication in ASP.NET Core Web API application, you need to
+	- Register the authentication services using AddAuthentication method of IServiceCollection (as retrieved from web host builder, WebApplicationBuilder, by "Services" property
+	- while registering the same, configure the auth services to provide support JWT based authentication, where the services will check whether a valid JWT token has been provided in the incoming request through Authorization header
+	- use the middleware by calling UseAuthentication() method of web host, WebApplication class (before UseAuthorization() call and after UseCors() call)
+	- Create a class with a method that will generate a JWT for an authenticated user and return the same to authentication controller
+
+package: Microsoft.AspNetCore.Authentication.JwtBearer (version compatible with your .NET version)
+
+In the PMS APP, following changes have been made:
+A. Repository library:
+----------------------------------
+	- a new POCO in the Repository library, by the name "User" has been created (to store user credentials)
+	- table mapping (through Fluent API) for User POCO class has been provided in SiemensDbContext class's "OnModelCreating" method
+	- Second migration has been added in the Repository to create the users table
+
+B. DTOs library:
+-----------------------------
+	- a new DTO in the DTOs library, by the name "UserDTO" has been created (for data transfer between layers)
+
+C. ServiceManager library:
+------------------------------------
+	- a new interface [IAsyncAuthServiceManager] containing methods to register and authenticate an user have been created
+	- the same has been implemented in the class AuthAsyncServiceManager class
+
+D. API application:
+---------------------------
+	- the reference to the package, Microsoft.AspNetCore.Authentication.JwtBearer, has been added
+	- certain JWT related settings have been added in the appSettings.json file using "Jwt" section
+	- the interface "ITokenManager" has been created with a method to create token, in the "Models" folder
+	- the same has been implemented in the class JwtTokenManager present in the same folder
+	- an new controller AuthController has been added
+	- the AuthController methods have been annotated with "AllowAnonymous" attribute, as end user do not need to be authenticated in order to invoke those APIs
+	- the ProductController methods haven been annotated with "Authorize" attribute as end user do need to be authenticated in order to invoke those APIs 
+	- Jwt based authentication schema has been added through AddAutnetication method and the middleware has been activated by UseAuthentication() method
+
+E. How to test?
+------------------
+you can test the auth controller APIs for registration and authentication. After successful authentication a token (string format) will be returned to the end user. The end user application has to send the same token with every subsequent request for Product controller actions/APIs, by adding the "Authorization" header with value "Bearer <token>".
+
+1. register an user
+
+POST http://localhost:5221/api/auth/register
+Content-Type: application/json
+
+{
+  "username": "joydip@gmail.com",
+  "password": "Joydip@123"
+}
+
+response: the registered user object
+
+2. login
+
+POST http://localhost:5221/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "joydip@gmail.com",
+  "password": "Joydip@123"
+}
+
+response: a JWT token
+
+3. get all products request
+
+GET http://localhost:5221/api/product/all
+Accept: application/json
+Content-Type: application/json 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqb3lkaXBAZ21haWwuY29tIiwiZXhwIjoxNzY0NDc1OTc5LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUyMjEiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjUyMjEifQ.8-xk9MzfpWWNlF448e5ppa6-4TKIXFrcA8YGzmRB71Q
+
+response: all product records
